@@ -1,0 +1,17 @@
+{
+  "name": "programacion-grafica-ts",
+  "version": "1.0.0",
+  "description": "Programación Gráfica en TypeScript. La API Canvas. Representación de funciones.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "docs": "typedoc",
+    "build": "tsc -w"
+  },
+  "keywords": ["funciones", "typescript", "oop"],
+  "author": "Tania Évora Vargas Martínez",
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "typedoc": "^0.25.12"
+  }
+}
